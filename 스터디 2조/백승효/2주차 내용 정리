@@ -10,7 +10,7 @@
 |         domain        |  domain   |
 
 - SQL에서 relation 중복된 **tuple**을 허용  
-- 국제표준화기군에서 지정한 표준을 대부분의 DBMS 회사에서 지키고 있지만, 자신의 특성을 반영한 변형된 SQL을 사용. 이를 Oracle은 PL/SQL, SQL 서버는 T-SQL, MySQL은 SQL로 불리어짐.
+- 국제표준화기구에서 지정한 표준을 대부분의 DBMS 회사에서 지키고 있지만, 자신의 특성을 반영한 변형된 SQL을 사용. 이를 Oracle은 PL/SQL, SQL 서버는 T-SQL, MySQL은 SQL로 불리어짐
 ---
 ## 2. 데이터베이스 생성하기
 1. mysql> CREATE DATABASE school;
